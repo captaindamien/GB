@@ -1,0 +1,5 @@
+Hi i`m text file
+At once i was a blank file
+So today they`re testing python scripts on me
+But some day i`ll grow up
+And I`ll be python file too
