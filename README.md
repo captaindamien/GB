@@ -1,3 +1,7 @@
 # Study
 
-Сontains homework assignments in several subjects that were taken at the github
+#Сontains homework assignments in several subjects that were taken at the github
+
+DJANGO_BASICS
+
+
